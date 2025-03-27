@@ -17,4 +17,4 @@ This project analyzes Vrinda Store's annual sales data using Microsoft Excel, fo
 This project provides a structured approach to understanding sales performance and customer behavior, enabling data-driven decision-making. 
 
 Input Dataset The input dataset is accessible via the following link:
-https://docs.google.com/spreadsheets/d/1_tZ0A_UkRJ3ET9hVaKTZ_mzvV7y0Lr9G/edit?usp=drive_link&ouid=101703414595399027707&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1wv4Z9Z6PS-RaVCBh8Smhj6wyKJdqQHs-/edit?usp=drive_link&ouid=101703414595399027707&rtpof=true&sd=true
